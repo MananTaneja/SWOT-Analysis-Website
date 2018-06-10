@@ -4,6 +4,7 @@ body
     color: white;
     align-self: center;
     text-align: center;
+    justify-content: center;
 }
 
 ol {
@@ -24,7 +25,7 @@ ol li{
 ol li:hover{
     transform: scale(1.2);
     /*background-color: rgba(75, 70, 101, 0.3);*/
-    color: white !important;
+    color: black !important;
 }
 
 ol a li :hover {
@@ -46,19 +47,31 @@ img {
 #list1 {
     background: url('Images/tim-gouw-68319-unsplash.jpg');
     background-size: cover;
+    border-radius: 25px;
 }
 
 #list2 {
     background: url('Images/swot-strength-strength-opportunities-threats-business-human-sign-block-diagram-vector-illustration-design-swot-105386557.jpg');
     background-size: cover;
+    border-radius: 25px;
 }
 
 #list3 {
     background: url('Images/jungwoo-hong-100345-unsplash.jpg');
     background-size: cover;
+    border-radius: 25px;
 }
 
 #list4 {
     background: url('Images/matheus-ferrero-228716-unsplash.jpg');
     background-size: cover;
+    border-radius: 25px;
+}
+
+#data {
+    width: 1200px;
+    height: 800px;
+    color: purple;
+    background-color: white;
+    border-radius: 25px;
 }
