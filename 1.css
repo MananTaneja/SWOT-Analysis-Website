@@ -5,6 +5,7 @@ body
     align-self: center;
     text-align: center;
     justify-content: center;
+    font-family: 'Kanit', sans-serif;
 }
 
 ol {
@@ -38,11 +39,6 @@ ol a li{
     text-decoration: none;
 }
 
-img {
-    width: 450px;
-    height: 300px;
-    opacity: 0.2;
-}
 
 #list1 {
     background: url('Images/tim-gouw-68319-unsplash.jpg');
@@ -68,10 +64,8 @@ img {
     border-radius: 25px;
 }
 
-#data {
-    width: 1200px;
-    height: 800px;
-    color: purple;
-    background-color: white;
-    border-radius: 25px;
+
+#data img {
+    margin: 40px;
+    border: 20px solid rgba(230, 104, 104, 0.856);
 }
