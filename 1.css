@@ -1,0 +1,64 @@
+body
+{
+    background-color: #14121D;
+    color: white;
+    align-self: center;
+    text-align: center;
+}
+
+ol {
+    color: #C0BDD0;
+    list-style: none;
+}
+
+ol li{
+    width: 450px;
+    height: 300px;
+    font-size: 50px;
+    text-align: center;
+    float: left;
+    align-items: center;
+    margin: 30px;
+}
+
+ol li:hover{
+    transform: scale(1.2);
+    /*background-color: rgba(75, 70, 101, 0.3);*/
+    color: white !important;
+}
+
+ol a li :hover {
+    color: white;
+    text-decoration: none;
+}
+
+ol a li{
+    color: #C0BDD0;
+    text-decoration: none;
+}
+
+img {
+    width: 450px;
+    height: 300px;
+    opacity: 0.2;
+}
+
+#list1 {
+    background: url('Images/tim-gouw-68319-unsplash.jpg');
+    background-size: cover;
+}
+
+#list2 {
+    background: url('Images/swot-strength-strength-opportunities-threats-business-human-sign-block-diagram-vector-illustration-design-swot-105386557.jpg');
+    background-size: cover;
+}
+
+#list3 {
+    background: url('Images/jungwoo-hong-100345-unsplash.jpg');
+    background-size: cover;
+}
+
+#list4 {
+    background: url('Images/matheus-ferrero-228716-unsplash.jpg');
+    background-size: cover;
+}
