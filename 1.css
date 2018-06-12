@@ -43,29 +43,30 @@ ol a li{
 #list1 {
     background: url('Images/tim-gouw-68319-unsplash.jpg');
     background-size: cover;
-    border-radius: 25px;
+    border-radius: 15px;
 }
 
 #list2 {
     background: url('Images/swot-strength-strength-opportunities-threats-business-human-sign-block-diagram-vector-illustration-design-swot-105386557.jpg');
     background-size: cover;
-    border-radius: 25px;
+    border-radius: 15px;
 }
 
 #list3 {
     background: url('Images/jungwoo-hong-100345-unsplash.jpg');
     background-size: cover;
-    border-radius: 25px;
+    border-radius: 15px;
 }
 
 #list4 {
     background: url('Images/matheus-ferrero-228716-unsplash.jpg');
     background-size: cover;
-    border-radius: 25px;
+    border-radius: 15px;
 }
 
 
 #data img {
     margin: 40px;
     border: 20px solid rgba(230, 104, 104, 0.856);
+    border-radius: 15px;
 }
