@@ -27,6 +27,7 @@ ol li:hover{
     transform: scale(1.2);
     /*background-color: rgba(75, 70, 101, 0.3);*/
     color: black !important;
+    transition-duration:1s;
 }
 
 ol a li :hover {
